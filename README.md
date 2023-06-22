@@ -22,13 +22,16 @@ Adnan, flutter developer with two years of experience, can analyze, design, and 
 ✧ Java Programming Language<br>
 ✧ Dart Programming Language<br>
 ✧ Kotlin Programming Language<br>
+✧JavaFx Programming<br>
+✧JavaFx FXML Programming<br>
 ✧ OOP Concepts<br>
 ✧ MVC architecture pattern<br>
 ✧ Good acknowledgment with Native Android and iOS fundamentals<br>
 ✧ Bloc StateManagment<br>
 ✧ Rest API<br>
 ✧ Resposive Flutter UI<br>
-✧ Firebase FireStore
+✧ Firebase FireStore<br>
+
 <a target="_blank" align="center"><br>
   <img align="center" top="500" height="300" width="1000" alt="GIF" src="https://github.com/TekyaygilFethi/TekyaygilFethi/raw/output/github-contribution-grid-snake.svg">
 </a>
