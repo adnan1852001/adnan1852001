@@ -31,6 +31,7 @@ Adnan, flutter developer with two years of experience, can analyze, design, and 
 ✧ Rest API<br>
 ✧ Resposive Flutter UI<br>
 ✧ Firebase FireStore<br>
+✧ DATA BASES: SQLite,MySQL<br>
 
 <a target="_blank" align="center"><br>
   <img align="center" top="500" height="300" width="1000" alt="GIF" src="https://github.com/TekyaygilFethi/TekyaygilFethi/raw/output/github-contribution-grid-snake.svg">
