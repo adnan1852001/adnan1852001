@@ -24,8 +24,10 @@ Adnan, flutter developer with two years of experience, can analyze, design, and 
 ✧ Kotlin Programming Language<br>
 ✧JavaFx Programming<br>
 ✧JavaFx FXML Programming<br>
+✧HTML , CSS , JavaScript<br>
 ✧ OOP Concepts<br>
 ✧ MVC architecture pattern<br>
+✧ MVVM architecture pattern<br>
 ✧ Good acknowledgment with Native Android and iOS fundamentals<br>
 ✧ Bloc StateManagment<br>
 ✧ Rest API<br>
